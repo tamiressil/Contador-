@@ -1,8 +1,21 @@
-# React + Vite
+# Contador
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Criação de um contador simples que permite que  o usuário aumente e diminua um valor, com botões de incremento e decremento.
+- 
+- Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
-Currently, two official plugins are available:
+# Visualize o site abaixo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Veja-o aqui!](https://contador-xi-topaz.vercel.app/)
+
+## Tecnologias Usadas:
+
+- HTML.
+- CSS.
+- JavaScript
+- React JS
+- Vite
+
+## Imagem do projeto:
+
+![image](https://github.com/tamiressil/Contador-/assets/163886976/03a950c4-704f-409b-991f-85b18d3ee941)
