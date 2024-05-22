@@ -1,7 +1,7 @@
 # Contador
 
 - Criação de um contador simples que permite que  o usuário aumente e diminua um valor, com botões de incremento e decremento.
-- 
+  
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 # Visualize o site abaixo:
